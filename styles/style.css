@@ -37,7 +37,6 @@ body {
 
 .header__link_active {
   text-decoration: none;
-  text-decoration: underline;
   text-underline-offset: 5px;
 }
 
@@ -157,7 +156,7 @@ body {
 .lots__card-list {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 25px;
   padding-top: 2px;
 }
 
@@ -260,7 +259,6 @@ body {
   padding-top: 100px;
   font-size: 20px;
   font-weight: 400;
-  padding-right: 29px;
   padding-top: 100px;
   line-height: 1.2;
   padding-right: 25px;
